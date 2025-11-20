@@ -10,7 +10,7 @@
 
 **Important Note:** Due to updates in the cfg structure, the EEPROM will be initialized to default values if the `cfg_version` does not match or is lower than `0x02`. Please be aware that this may reset your custom settings.
 
-[System Config Explanation](Docs/sysConfig.md)
+[System Config Explanation](sysConfig.md)
 
 
 
